@@ -14,8 +14,7 @@ let streak = 0
 let difficulty = 0
 let time_factor = 0
 let set_difficulty = false
-basic.showString("With the compass direction select the game mode")
-basic.showString("To start press button A +B ")
+basic.showString("With button A, B or shake select the game mode")
 basic.showString("A random blinking icon will be assigned to you")
 basic.showString("If Happy face appears you press button A")
 basic.showString("If Sad face appears you press button B")
